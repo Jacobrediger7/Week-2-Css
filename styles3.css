@@ -1,0 +1,32 @@
+/* styles.css */
+header {
+    background-color: #248617;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}  
+/* Here is the syling for my first header, using the element selector.*/
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #369f69;
+}
+/* This is my styling for my paragraphs, using the element selector. */
+#ul, li {
+    padding: 10px;
+    background-color: #f0f0f0;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    list-style-type: circle;
+    color: #0b6d13;
+}
+/* This is my styling for my un-ordered list on p3, using the id selector. */ 
+/* styles.css */
+
+.th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd; /* Example bottom border for rows */
+}
+/* This is my styling for the table data using the class selector. */ 
+
